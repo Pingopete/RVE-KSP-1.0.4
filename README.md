@@ -5,9 +5,9 @@ Temporary port of RVE(for 0.9) to KSP 1.0.4
 DO NOT BUG REPORT! By Downloading this I promice NOT to report any bugs or complain about WIP areas on the forum page; I know all the bugs already!
 
 Requirements:
-  RSS 10.0.2
-  EVE .Dlls provided here
-  No other cloud configs present in gamedata e.g. like in BoulderCo folder.
+	RSS 10.0.2
+	EVE .Dlls provided here
+	No other cloud configs present in gamedata e.g. like in BoulderCo folder.
   
 Recommended:
   PlanetShine
