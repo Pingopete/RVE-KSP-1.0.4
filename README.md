@@ -1,3 +1,4 @@
-# RVE-KSP-1.0.4 Linux x64 Required
+# RealSolarSystem Visual Enhancements 
+RVE-KSP-1.0.4 Linux x64 Required
 
   
