@@ -1,0 +1,10 @@
+forceOFFaniso = False
+extinctionCoeff = 0.012
+atmosphereGlobalScale = 1
+postProcessingAlpha = 0.78
+postProcessingScale = 1.5
+postProcessDepth = 0.02
+postProcessExposure = 0.18
+m_HDRExposure = 0.2
+alphaCutoff = 0.001
+alphaGlobal = 1

@@ -1,0 +1,4 @@
+scattererPlanets
+{
+	Item = Kerbin
+}

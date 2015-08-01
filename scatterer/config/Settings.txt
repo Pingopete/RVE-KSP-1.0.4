@@ -1,0 +1,45 @@
+forceOFFaniso = True
+displayInterpolatedVariables = True
+mapExposure = 0.12
+mapAlphaGlobal = 1
+rimBlend = 30
+rimpower = 100
+configPoints
+{
+	Item
+	{
+		altitude = 1000
+		skyAlpha = 1
+		skyExposure = 0.2
+		postProcessAlpha = 0.98
+		postProcessDepth = 0.04
+		postProcessExposure = 0.23
+	}
+	Item
+	{
+		altitude = 4000
+		skyAlpha = 1
+		skyExposure = 0.22
+		postProcessAlpha = 1
+		postProcessDepth = 0.15
+		postProcessExposure = 0.23
+	}
+	Item
+	{
+		altitude = 25000
+		skyAlpha = 1
+		skyExposure = 0.25
+		postProcessAlpha = 1.6
+		postProcessDepth = 0.3
+		postProcessExposure = 0.23
+	}
+	Item
+	{
+		altitude = 110000
+		skyAlpha = 0.67
+		skyExposure = 0.2
+		postProcessAlpha = 1
+		postProcessDepth = 1.5
+		postProcessExposure = 0.23
+	}
+}
