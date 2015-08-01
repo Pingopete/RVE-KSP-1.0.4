@@ -2,10 +2,10 @@
 RVE-Port-KSP1.0.4
 Temporary port of RVE(for 0.9) to KSP 1.0.4
 
-DO NOT BUG REPORT! By Downloading this I promice NOT to report any bugs or complain about WIP areas on the forum page; I know all the bugs already!
+DO NOT BUG REPORT!
 
 Requirements:
-	RSS 10.0.2
+	RSS 10.2
 	EVE .Dlls provided here
 	No other cloud configs present in gamedata e.g. like in BoulderCo folder.
   
@@ -24,7 +24,6 @@ Installation/use:
  3- Place shared assets file into your KSP_data folder for RVE sun texture and lens flare
  4- Pause game and open EVE GUI on launch pad/runway (Alt+E), hit apply once, wait, then close
  5- Enjoy.. maybe..
- 6- Don't bug report!
 
 Bugs/WIP
   EVE-GUI APPLY WILL CAUSE SERIOUS BUGS WHEN IN ORBIT
