@@ -18,7 +18,7 @@ Requirements:
   
 Recommended:
   PlanetShine
-  WindowReflections
+  WindowShine
   Distant object enhancements
       (for appropriate planet and skybox brightness)
   A custom Skybox
