@@ -2,7 +2,7 @@
 RVE for KSP 1.0.4 | RSS 10.2+ | EVE Overhaul (latest)
 
 DO NOT BUG REPORT UNLESS THE ISSUE HASN'T BEEN LISTED BELOW -- OR YOU GAME LITERALLY DOESN'T WORK - THIS IS A WORK IN PROGRESS!
-
+If reporting please first state which version of RVE you're trying to run (i.e. Windows32 or Linux64)
 Requirements:
 	KSP 1.0.4
 	RSS 10.2:
@@ -26,7 +26,7 @@ Recommended:
   CameraTools
   
 Installation/use:
- 0- This won't work if you're not on Linux x64 and with at least 4-8GB RAM 
+ 0- This probably won't work if you're not on Linux x64 and with at least 4-8GB RAM 
  1- Download the Linux-Branch Zip
  2- Install all required mods first
  3- Place all RVE folders from Zip into your Gamedata folder (overwriting)
@@ -36,7 +36,7 @@ Installation/use:
   - Read known bug list
  5- Enjoy.. maybe.. ;)
 
-Bugs/WIP
+KnownIssues/WIP Areas
   EVE-GUI APPLY WILL CAUSE SERIOUS BUGS WHEN IN ORBIT
   No other planets worked on other than Earth (and that's only half done)
   ScaledSpace/Orbital ground textures are a WIP
