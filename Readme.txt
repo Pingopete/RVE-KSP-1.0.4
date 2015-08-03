@@ -8,6 +8,7 @@ Requirements:
 	RSS 10.2:
 	> http://forum.kerbalspaceprogram.com/threads/55145-1-0-4-Real-Solar-System-v10-2-July-30
 
+	Necessary EVE files *NOT* included; you will need:
 	EnvironmetalVisualEnhancements folder with .DLL's from the latest overhaul branch:
 	> https://github.com/rbray89/EnvironmentalVisualEnhancements/tree/Overhaul
 
