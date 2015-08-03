@@ -9,7 +9,7 @@ Requirements:
 	> http://forum.kerbalspaceprogram.com/threads/55145-1-0-4-Real-Solar-System-v10-2-July-30
 
 	Necessary EVE files *NOT* included; you will need:
-	EnvironmetalVisualEnhancements folder with .DLL's from the latest overhaul branch:
+	EnvironmetalVisualEnhancements folder from the latest EVE overhaul branch (Download the Zip of that branch then drag 	the EnvironmentalVisualEnhancements folder, from that zip, into your gamedata folder). Download the EVE-Overhaul branch 		from:
 	> https://github.com/rbray89/EnvironmentalVisualEnhancements/tree/Overhaul
 
 	Scatterer (Latest)
