@@ -66,10 +66,7 @@ Intall ATM agressive
 Run in OpenGL
 Run with vertually no mods installed other than RSS/RO/Scatterer/RVE
 
-And it still crashes :P
- 
- 
-  
+
 
 
 <a href="http://imgur.com/cbrMvfZ"><img src="http://i.imgur.com/cbrMvfZ.png" title="source: imgur.com" /></a>
