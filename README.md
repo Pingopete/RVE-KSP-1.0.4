@@ -8,8 +8,11 @@ Expect frequent memory crashes on 32 bit :/
 Requirements:
 
 1) RSS 10.2
+
 2) Scatterer
+
 3) EVE-OverhaulBranch - Get the x86-Release.zip from here: https://github.com/rbray89/EnvironmentalVisualEnhancements/blob/Overhaul/x86-Release.zip    (Click Raw to DL)
+
 4) NO other cloud configs present in gamedata e.g. like in BoulderCo folder.
 
 
