@@ -1,0 +1,2 @@
+ParentPlanetCelestialBodyName = Kerbin
+ParentPlanetTransformName = Kerbin
