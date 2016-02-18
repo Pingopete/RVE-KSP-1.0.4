@@ -9,7 +9,7 @@ Requirements:
 	> http://forum.kerbalspaceprogram.com/threads/55145-1-0-4-Real-Solar-System-v10-2-July-30
 
 	Download specifically this Zip: x86-EVE-Release.zip from:
-	> https://github.com/rbray89/EnvironmentalVisualEnhancements/tree/Overhaul
+	> https://github.com/rbray89/EnvironmentalVisualEnhancements/raw/master/x86-EVE-Release.zip
 
 	Scatterer (Latest)
 	> http://forum.kerbalspaceprogram.com/threads/115408-WIP-Scatterer-atmospheric-scattering-(v0-0171-18-07-2015)-Kept-you-waiting-huh
