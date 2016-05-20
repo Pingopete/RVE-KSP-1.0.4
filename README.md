@@ -8,4 +8,4 @@ Detailed Cloud Shadows
 <a href="http://imgur.com/rQrxFKC"><img src="http://i.imgur.com/rQrxFKC.png?1" title="source: imgur.com" /></a>
 Higher Fidelity Terrain at RSS Scales
 
-RVE-KSP-1.0.4 Linux x64 Required
+RVE-KSP-1.1 x64 Required

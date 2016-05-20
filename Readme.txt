@@ -1,15 +1,15 @@
-# RVE-KSP-1.0.5 - For Linux(x64) users only
-RVE for KSP 1.0.5 | RSS 10.2+ | EVE release (latest)
+# RVE-KSP-1.1 for 64bit only
+RVE for KSP 1.1 | RSS 11.1+ | EVE 1.1-2
 
 DO NOT BUG REPORT.. full stop.
 
 Requirements:
-	KSP 1.0.5
+	KSP 1.1
 	RSS (Latest):
 	> http://forum.kerbalspaceprogram.com/threads/55145-1-0-4-Real-Solar-System-v10-2-July-30
 
-	Download specifically this Zip: x86-EVE-Release.zip from:
-	> https://github.com/rbray89/EnvironmentalVisualEnhancements/blob/fcc42a6c7faafbec1f8656a04e59faa86de8f8c7/x86-EVE-Release.zip?raw=true
+	EVE 1.1-2
+	> https://github.com/rbray89/EnvironmentalVisualEnhancements/releases/download/EVE-1.1-2-1/AnyCPU-EVE-Release.zip
 
 	Scatterer (Latest)
 	> http://forum.kerbalspaceprogram.com/threads/115408-WIP-Scatterer-atmospheric-scattering-(v0-0171-18-07-2015)-Kept-you-waiting-huh
@@ -26,7 +26,7 @@ Recommended:
   CameraTools
   
 Installation/use:
- 0- This probably won't work if you're not on Linux x64 and with at least 4-8GB RAM 
+ 0- This probably won't work if you're not on x64 and with at least 4-8GB RAM 
  1- Download the RVE Linux-Branch Zip
  2- Install all required mods first
  3- Place all RVE folders from Zip into your Gamedata folder (overwriting) unless you don't want RVE skybox or texture replacer.
